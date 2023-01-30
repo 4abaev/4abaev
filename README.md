@@ -33,7 +33,7 @@ ___
 ![morgan](https://img.shields.io/badge/-MORGAN-black?style=for-the-badge&logo=morgan&logoColor=orange)
 ![bcrypt](https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo)
 
-___
+
 <br>
 
 ### Остальное
@@ -42,7 +42,7 @@ ___
 
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-___
+
 
 <br>
 
