@@ -1,9 +1,15 @@
-# Приветствую вас! 👋
+# __Приветствую вас!__ 👋
+
+<br>
+
+
 ## Я Frontend-developer, меня зовут Рашид
+<br>
 
     Могу создать и Fullstack-MVP, в связке
     Backend : Node.js, Express
     Frontend:  JavaScript, React, Redux-toolkit, React-Bootstrap и др.
+
 
 ___
 
@@ -23,18 +29,16 @@ ___
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-6e10ee?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![materialUI](https://img.shields.io/badge/-Material_Ui-6e10ee?style=for-the-badge&logo=material_ui&logoColor=white)
 
-    *В React пользуюсь функциональными компонентами
-___
+    *В React пользуюсь React Function Components, React-hooks.
+
 ### Backend
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-purple?style=for-the-badge&logo=mongodb&logoColor=green)
 ![mongoose](https://img.shields.io/badge/mongoose-purple?style=for-the-badge&logo=mongodb&logoColor=green)
-![morgan](https://img.shields.io/badge/-MORGAN-black?style=for-the-badge&logo=morgan&logoColor=orange)
-![bcrypt](https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo)
 
-
-<br>
+![morgan](https://img.shields.io/badge/-MORGAN-gray?style=for-the-badge&logo=morgan&logoColor=orange)
+![bcrypt](https://img.shields.io/badge/bcrypt-gray?style=for-the-badge&logo)
 
 ### Остальное
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
@@ -42,9 +46,6 @@ ___
 
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-
-
-<br>
 
 ## Изучаю/хочу изучить
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
