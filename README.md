@@ -28,8 +28,8 @@ ___
 ### Backend
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green)
-![mongoose](https://img.shields.io/badge/mongoose-white?style=for-the-badge&logo=mongoose)
+![MongoDB](https://img.shields.io/badge/-MongoDB-purple?style=for-the-badge&logo=mongodb&logoColor=green)
+![mongoose](https://img.shields.io/badge/mongoose-purple?style=for-the-badge&logo=mongodb&logoColor=green)
 ![morgan](https://img.shields.io/badge/-MORGAN-black?style=for-the-badge&logo=morgan&logoColor=orange)
 ![bcrypt](https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo)
 
@@ -52,9 +52,13 @@ ___
 ___
 
 <br>
-<br>
 
-## Мои проекты
+<!-- ## Мои проекты
+
+<br> -->
+
 ## Связь со мной
 
-![telegram(https://t.me/Ch000001)](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://t.me/Ch000001">
+    <img alt="Rashid" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
