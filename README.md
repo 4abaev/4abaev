@@ -20,6 +20,8 @@ ___
 ![Redux Thunk](https://img.shields.io/badge/-Redux_Thunk-45b8d8?style=for-the-badge&logo=Redux&logoColor=orange)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-6e10ee?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![materialUI](https://img.shields.io/badge/-Material_Ui-6e10ee?style=for-the-badge&logo=material_ui&logoColor=white)
+
+    *В React пользуюсь функциональными компонентами
 ___
 ### Backend
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -29,7 +31,7 @@ ___
 ![morgan](https://img.shields.io/badge/-MORGAN-black?style=for-the-badge&logo=morgan&logoColor=orange)
 ![bcrypt](https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo)
 ___
-### Общее
+### Остальное
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
 ![eslint](https://img.shields.io/badge/eslint-grey?style=for-the-badge&logo=eslint)
 
