@@ -1,5 +1,5 @@
 # Приветствую вас! 👋
-## Я Frontend-developer
+## Я Frontend-developer, меня зовут Рашид
 
     Могу создать и Fullstack-MVP, в связке
     Backend : Node.js, Express
@@ -37,3 +37,7 @@ ___
 
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+___
+## Связь со мной
+
+![telegram(https://t.me/Ch000001)](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
