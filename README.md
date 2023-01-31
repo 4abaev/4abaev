@@ -57,10 +57,10 @@ ___
 
 ## Мои проекты
 <a href="https://github.com/RashidCHAB/Configure__PC">
-<img src="./assets/matrix.png" width="150px" height="50px" />
+<img src="./assets/matrix.PNG" width="150px" height="50px" />
 </a>
 <a href="https://github.com/RashidCHAB/Configure__PC">
-<img src="./assets/gym.png" width="150px" height="50px" />
+<img src="./assets/gym.PNG" width="150px" height="50px" />
 </a>
 
 <br>
