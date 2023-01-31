@@ -55,9 +55,9 @@ ___
 
 ## Мои проекты
 <a href="https://github.com/4abaev/Configure__PC">
-<img src="./assets/matrix.PNG" width="150px" height="50px" />
+<img src="./assets/matrix.PNG" width="150px" height="50px" target="_blank"/>
 </a>
-<a href="https://github.com/4abaev/Configure__PC">
+<a href="https://github.com/4abaev/Configure__PC" target="_blank">
 <img src="./assets/gym.PNG" width="150px" height="50px" />
 </a>
 
