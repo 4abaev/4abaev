@@ -47,16 +47,23 @@ ___
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
-## Изучаю/хочу изучить
+### Изучаю/хочу изучить
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-darkblue?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-blue?style=for-the-badge&logo=SASS&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/-NEXTJS-darkblue?style=for-the-badge&logo=NEXTJS&logoColor=white)
+![NESTJS](https://img.shields.io/badge/-NESTJS-blue?style=for-the-badge&logo=NEXTJS&logoColor=white)
 ___
 
+
+## Мои проекты
+<a href="https://github.com/RashidCHAB/Configure__PC">
+<img src="./assets/matrix.png" width="150px" height="50px" />
+</a>
+<a href="https://github.com/RashidCHAB/Configure__PC">
+<img src="./assets/gym.png" width="150px" height="50px" />
+</a>
+
 <br>
-
-<!-- ## Мои проекты
-
-<br> -->
 
 ## Связь со мной
 
