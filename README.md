@@ -40,7 +40,10 @@ ___
 
 ### Остальное
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
-![eslint](https://img.shields.io/badge/eslint-grey?style=for-the-badge&logo=eslint)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=orange)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=Adobe-Photoshop&logoColor=orange)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=orange)
+![Eslint](https://img.shields.io/badge/eslint-grey?style=for-the-badge&logo=eslint)
 
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
