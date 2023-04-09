@@ -9,6 +9,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-1872FF?style=for-the-badge&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-1872FF?style=for-the-badge&logo=SASS&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/-NEXTJS-darkblue?style=for-the-badge&logo=NEXTJS&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-430098?style=for-the-badge&logo=react&logoColor=blue)
 ![ReactRouter](https://img.shields.io/badge/-React_Router-430098?style=for-the-badge&logo=react-router&logoColor=blue)
@@ -18,7 +20,6 @@
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-6e10ee?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![materialUI](https://img.shields.io/badge/-Material_Ui-6e10ee?style=for-the-badge&logo=material_ui&logoColor=white)
 
-    *В React пользуюсь React Function Components, React-hooks.
 
 ### Backend
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -38,13 +39,6 @@
 
 ![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-
-### Изучаю/хочу изучить
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-blue?style=for-the-badge&logo=SASS&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/-NEXTJS-darkblue?style=for-the-badge&logo=NEXTJS&logoColor=white)
-![NESTJS](https://img.shields.io/badge/-NESTJS-blue?style=for-the-badge&logo=NEXTJS&logoColor=white)
-___
 
 
 ## Мои проекты
