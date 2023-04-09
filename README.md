@@ -1,6 +1,8 @@
 # Привет!
 <br>
+
 ## Я Frontend-developer
+
 ## Использую в разработке
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
