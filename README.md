@@ -1,9 +1,8 @@
 # Привет!
 <br>
 
-## Я Frontend-developer
+## Я Frontend-developer, мой стек: 
 
-## Использую в разработке
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-FF6618?style=for-the-badge&logo=HTML&logoColor=white)
