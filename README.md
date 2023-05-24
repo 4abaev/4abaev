@@ -1,6 +1,3 @@
-# Привет!
-<br>
-
 ## Я Frontend-developer, мой стек: 
 
 ### Frontend
