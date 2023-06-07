@@ -1,4 +1,4 @@
-## Я Frontend-developer, мой стек: 
+## Я Fullstack developer, мой стек: 
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
